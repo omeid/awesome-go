@@ -214,6 +214,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
 * [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
 * [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
+* [uConfig](https://github.com/omeid/uconfig) - An unopinionated, extendable and plugable configuration management. Supports YAML, TOML, JSON, Env vars, K8s DAPI, et al.
 * [viper](https://github.com/spf13/viper) - Go configuration with fangs.
 * [xdg](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).
 
